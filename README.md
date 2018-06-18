@@ -1,4 +1,4 @@
-# spark-summit-north-america-2018-06(Updating)
+# spark-summit-north-america-2018-06(Finished)
 
 ![spark-summit-north-america-2018-06](resources/spark-summit-north-america-2018-06.png)
 - 日程及 slides => [spark-summit-north-america 2018-06 官方日程](https://databricks.com/sparkaisummit/north-america/schedule)
